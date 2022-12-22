@@ -15,7 +15,7 @@
         "csv-parser": "^2.3.1",
         "csvtojson": "^2.0.10",
         "express": "^4.17.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mongoose": "^5.7.3",
         "mongoose-unique-validator": "^2.0.3"
     }
